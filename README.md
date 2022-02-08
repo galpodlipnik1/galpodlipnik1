@@ -1,6 +1,6 @@
 ### Gal Podlipnik
 [🌍Website](https://me.pogers.si/)  
-[Vegova Squad](https://vegova.si)
+[Vegova](https://vegova.si)
 
 
 - 🌱 I’m currently learning - JS
