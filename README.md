@@ -1,5 +1,5 @@
 ### Gal Podlipnik
-[🌍Website](https://me.galpodlipnik.com)  
+[🌍Website](https://me.pogers.si)  
 [Vegova](https://vegova.si)
 
 
