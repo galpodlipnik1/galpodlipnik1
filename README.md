@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gal Podlipnik</h1>
 <h3 align="center">A passionate fullstack developer from Slovenia</h3>
 
-- 🔭 I’m currently working on [Soft stats](#)
+- 🔭 I’m currently working on [/](#)
 
 - 🌱 I’m currently learning **mongoDB, express, react, nodejs (MERN)**
 
