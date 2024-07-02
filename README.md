@@ -36,6 +36,8 @@
 
 <br><br>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=galpodlipnik1&show_icons=true&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats" alt="galpodlipnik1" /></p>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=galpodlipnik1&size_weight=0.5&count_weight=0.5&show_icons=true&theme=radical)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=galpodlipnik1&show_icons=true&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats" alt="galpodlipnik1" /></p>
+[![Gals's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=galpodlipnik1)](https://github.com/anuraghazra/github-readme-stats)
