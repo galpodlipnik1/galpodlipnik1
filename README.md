@@ -40,4 +40,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=galpodlipnik1&size_weight=0.5&count_weight=0.5&show_icons=true&theme=radical)
 
-[![Gals's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=galpodlipnik1)](https://github.com/anuraghazra/github-readme-stats)
+[![Gals's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=galpodlipnik&show_icons=true&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
