@@ -36,6 +36,6 @@
 
 <br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galpodlipnik1&exclude_repo=gambling-or-something;anuraghazra.github.io;&show_icons=true&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats" alt="galpodlipnik1" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galpodlipnik1&exclude_repo=gambling-or-something;anuraghazra.github.io;&show_icons=true&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)" alt="galpodlipnik1" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=galpodlipnik1&show_icons=true&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats" alt="galpodlipnik1" /></p>
