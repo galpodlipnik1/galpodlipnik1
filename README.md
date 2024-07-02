@@ -28,7 +28,7 @@
 
 <br><br>
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
+<div style="display: flex; justify-content: space-evenly; align-items: center;">
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=galpodlipnik1&show_icons=true&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats" alt="galpodlipnik1" /></p>
 
