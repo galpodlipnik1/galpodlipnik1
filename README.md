@@ -13,11 +13,11 @@
 
 - 📝 I regularly write articles on [/](/)
 
-- 💬 Ask me about **React, c++, express**
+- 💬 Ask me about **React, Rust, Next**
 
 - 📫 How to reach me **gal.podlipnik@gmail.com**
 
-- 📄 Know about my experiences [c++, JS, React](c++, JS, React)
+- 📄 Know about my experiences [c++, JS, React, Next, Rust](c++, JS, React, Next, Rust)
 
 - ⚡ Fun fact **Not that smart😮**
 
