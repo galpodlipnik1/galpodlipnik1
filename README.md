@@ -1,34 +1,26 @@
 <h1 align="center">Hi 👋, I'm Gal Podlipnik</h1>
 <h3 align="center">A passionate fullstack developer from Slovenia</h3>
 
-- 🔭 I’m currently working on [/](#)
-
-- 🌱 I’m currently learning **mongoDB, express, react, nodejs (MERN)**
-
-- 👯 I’m looking to collaborate on [/](#)
-
-- 🤝 I’m looking for help with [React, redux, express](#)
-
+- 🔭 I’m currently working on [Getting through college](https://www.fri.uni-lj.si/sl)
+- 🌱 I’m currently learning **Rust, Next.js**
+- 👯 I’m looking to collaborate on [Open Source Projects](#)
+- 🤝 I’m looking for help with **React, Redux, Express**
 - 👨‍💻 All of my projects are available at [https://me.galpodlipnik.com](https://me.galpodlipnik.com)
+- 📝 I regularly write articles on [My Blog](/)
+- 💬 Ask me about **React, Rust, Next.js**
+- 📫 How to reach me: **gal.podlipnik@gmail.com**
+- 📄 Know about my experiences: **C++, JavaScript, React, Next.js, Rust, MongoDB, PostgreSQL**
+- ⚡ Fun fact: **I'm not as smart as you think 😮**
 
-- 📝 I regularly write articles on [/](/)
-
-- 💬 Ask me about **React, Rust, Next**
-
-- 📫 How to reach me **gal.podlipnik@gmail.com**
-
-- 📄 Know about my experiences [c++, JS, React, Next, Rust](c++, JS, React, Next, Rust)
-
-- ⚡ Fun fact **Not that smart😮**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/https://codepen.io/galpodlipnik1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/galpodlipnik1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/gal-podlipnik-7a022a1b0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gal-podlipnik-7a022a1b0/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/16031255" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16031255" height="30" width="40" /></a>
-<a href="https://instagram.com/galpodlipnik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="galpodlipnik" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/galpodlipnik1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/galpodlipnik1/" height="30" width="40" /></a>
-<a href="https://discord.gg/Gal Podlipnik#0474" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Gal Podlipnik#0474" height="30" width="40" /></a>
+<a href="https://codepen.io/galpodlipnik1" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="galpodlipnik1" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/gal-podlipnik-7a022a1b0/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Gal Podlipnik" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/16031255" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16031255" height="30" width="40" /></a>
+<a href="https://instagram.com/galpodlipnik" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="galpodlipnik" height="30" width="40" /></a>
+<a href="https://leetcode.com/galpodlipnik1/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="galpodlipnik1" height="30" width="40" /></a>
+<a href="https://discord.gg/GalPodlipnik#0474" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Gal Podlipnik#0474" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -36,8 +28,19 @@
 
 <br><br>
 
+<div style="display: flex; justify-content: space-between; align-items: center;">
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=galpodlipnik1&show_icons=true&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats" alt="galpodlipnik1" /></p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=galpodlipnik1&size_weight=0.5&count_weight=0.5&show_icons=true&theme=radical)
 
-[![Gals's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=galpodlipnik&show_icons=true&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=galpodlipnik1&size_weight=0.5&count_weight=0.5&show_icons=true&theme=radical&layout=compact" alt="Top Langs" />
+
+</div>
+
+<br><br>
+
+<div align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=galpodlipnik&show_icons=true&theme=radical&layout=compact" alt="Gals's WakaTime stats" />
+    </a>
+</div>
