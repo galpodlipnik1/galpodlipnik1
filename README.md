@@ -10,7 +10,7 @@
 - 💬 Ask me about **React, Rust, Next.js**
 - 📫 How to reach me: **gal.podlipnik@gmail.com**
 - 📄 Know about my experiences: **C++, JavaScript, React, Next.js, Rust, MongoDB, PostgreSQL**
-- ⚡ Fun fact: **I'm not as smart as you think 😮**
+- ⚡ Fun fact: **I'm not smart 😮**
 
 
 <h3 align="left">Connect with me:</h3>
