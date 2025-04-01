@@ -2,9 +2,9 @@
 <h3 align="center">A passionate fullstack developer from Slovenia</h3>
 
 - 🔭 I’m currently working on [Getting through college](https://www.fri.uni-lj.si/sl)
-- 🌱 I’m currently learning **Rust, Next.js**
+- 🌱 I’m currently learning **Rust, Next.js, Angular**
 - 👯 I’m looking to collaborate on [Open Source Projects](#)
-- 🤝 I’m looking for help with **React, Redux, Express**
+- 🤝 I’m looking for help with **React, Angular**
 - 👨‍💻 All of my projects are available at [https://me.galpodlipnik.com](https://me.galpodlipnik.com)
 - 📝 I regularly write articles on [My Blog](/)
 - 💬 Ask me about **React, Rust, Next.js**
