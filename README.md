@@ -6,10 +6,10 @@
 - 👯 I’m looking to collaborate on [Open Source Projects](#)
 - 🤝 I’m looking for help with **React, Angular**
 - 👨‍💻 All of my projects are available at [https://me.galpodlipnik.com](https://me.galpodlipnik.com)
-- 📝 I regularly write articles on [My Blog](/)
-- 💬 Ask me about **React, Rust, Next.js**
+- 📝 I almost never write articles on [My Blog](https://dev.to/galpodlipnik)
+- 💬 Ask me about **React, Angular, Next.js**
 - 📫 How to reach me: **gal.podlipnik@gmail.com**
-- 📄 Know about my experiences: **C++, JavaScript, React, Next.js, Rust, MongoDB, PostgreSQL**
+- 📄 Know about my experiences: **C++, JavaScript, React, Next.js, Rust, MongoDB, PostgreSQL, Drizzle, Angular and MORE**
 - ⚡ Fun fact: **I'm not smart 😮**
 
 
