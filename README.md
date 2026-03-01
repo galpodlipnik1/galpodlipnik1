@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Gal Podlipnik</h1>
 <h3 align="center">A passionate fullstack developer from Slovenia</h3>
 
-- 🔭 I’m currently working on [Getting through college](https://www.fri.uni-lj.si/sl)
-- 🌱 I’m currently learning **Rust, Next.js, Angular**
+- 🔭 I’m currently working on [Devrev Internship](https://devrev.ai/)
+- 🌱 I’m currently learning **Go, Kubernetes**
 - 👯 I’m looking to collaborate on [Open Source Projects](#)
-- 🤝 I’m looking for help with **React, Angular**
+- 🤝 I’m looking for help with **React, Go**
 - 👨‍💻 All of my projects are available at [https://me.galpodlipnik.com](https://me.galpodlipnik.com)
 - 📝 I almost never write articles on [My Blog](https://dev.to/galpodlipnik)
-- 💬 Ask me about **React, Angular, Next.js**
+- 💬 Ask me about **React, Angular, Next.js, Kubernetes**
 - 📫 How to reach me: **gal.podlipnik@gmail.com**
 - 📄 Know about my experiences: **C++, JavaScript, React, Next.js, Rust, MongoDB, PostgreSQL, Drizzle, Angular and MORE**
 - ⚡ Fun fact: **I'm not smart 😮**
@@ -15,12 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/galpodlipnik1" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="galpodlipnik1" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/gal-podlipnik-7a022a1b0/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Gal Podlipnik" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/16031255" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16031255" height="30" width="40" /></a>
-<a href="https://instagram.com/galpodlipnik" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="galpodlipnik" height="30" width="40" /></a>
-<a href="https://leetcode.com/galpodlipnik1/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="galpodlipnik1" height="30" width="40" /></a>
-<a href="https://discord.gg/GalPodlipnik#0474" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Gal Podlipnik#0474" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
