@@ -47,4 +47,4 @@ Are pinned 🤷
 
 ## Contact
 - 📫 **gal.podlipnik@gmail.com**
-- 🌍 **https://me.galpodlipnik.com**
+- 🌍 **https://galpodlipnik.com**
