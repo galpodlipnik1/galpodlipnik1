@@ -48,3 +48,4 @@ Are pinned 🤷
 ## Contact
 - 📫 **gal.podlipnik@gmail.com**
 - 🌍 **https://galpodlipnik.com**
+- 🔗 **[Linkedin](https://www.linkedin.com/in/gal-podlipnik-7a022a1b0/)**
