@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="https://me.galpodlipnik.com"><b>Portfolio</b></a>
+  <a href="https://galpodlipnik.com"><b>Portfolio</b></a>
   ·
   <a href="https://dev.to/galpodlipnik"><b>Blog</b></a>
   ·
