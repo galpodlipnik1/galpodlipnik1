@@ -41,13 +41,7 @@
 ---
 
 ## Featured projects
-Pin your best repos on GitHub so they show up here.
-
-A good lineup:
-- one flagship project (big, polished)
-- one practical tool (small, useful)
-- one infra repo (k8s, homelab, CI/CD)
-- one fun experiment (something weird but lovable)
+Are pinned 🤷
 
 ---
 
