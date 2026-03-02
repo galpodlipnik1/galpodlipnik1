@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Gal Podlipnik 👋</h1>
 <p align="center">
-  Fullstack developer from Slovenia • building things that ship • occasionally wrestling Kubernetes into submission
+  Fullstack developer from Slovenia • building things that mostly ship • occasionally wrestling Kubernetes into submission
 </p>
 
 <p align="center">
