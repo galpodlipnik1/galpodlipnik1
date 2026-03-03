@@ -14,7 +14,8 @@
 </p>
 
 <p align="center">
-  <img src="https://stat-cards.galpodlipnik.com/loc.svg?user=galpodlipnik1&theme=dark" height="165" />
+  <img src="https://stat-cards.galpodlipnik.com/loc.svg?user=galpodlipnik1&theme=dark" height="165" hspace="12" />
+  <img src="https://stat-cards.galpodlipnik.com/languages.svg?user=galpodlipnik1&theme=dark" height="165" hspace="12" />
 </p>
 
 <p align="center">
@@ -48,4 +49,4 @@ Are pinned 🤷
 ## Contact
 - 📫 **gal.podlipnik@gmail.com**
 - 🌍 **https://galpodlipnik.com**
-- 🔗 **[Linkedin](https://www.linkedin.com/in/gal-podlipnik-7a022a1b0/)**
+- 🔗 **[LinkedIn](https://www.linkedin.com/in/gal-podlipnik-7a022a1b0/)**
