@@ -26,7 +26,7 @@
 
 ---
 
-- 🔭 I’m currently working on [Devrev Internship](https://devrev.ai/)
+- 🔭 I’m currently **working on apps to make my life easyer**
 - 🌱 I’m currently learning **Go, Kubernetes**
 - 👨‍💻 All of my projects are available at [https://galpodlipnik.com](https://galpodlipnik.com)
 - 💬 Ask me about **React, Go, Next.js, Drizzle**
